@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fro",
+				"form\tTag"
+			],
+			[
+				"pr",
+				"progress\tTag"
+			],
+			[
+				"te",
+				"table"
+			],
+			[
+				"tip",
+				"tipe_jenis_kelamin"
+			],
+			[
+				"h",
+				"hobi"
+			],
+			[
+				"jeni",
+				"jenis_kelamin"
+			],
+			[
+				"ci",
+				"cita_cita"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Laptop/mowes/www/hazuki/privat web/index.php",
+		"/E/Laptop/mowes/www/hazuki/kalkulator/p.php",
+		"/E/Laptop/mowes/www/hazuki/Tugas 1/Tugas 1.php",
+		"/E/Laptop/mowes/www/hazuki/kalkulator/p1.css",
+		"/D/simpeg.sql",
+		"/E/Laptop/mowes/www/hazuki/kalkulator/p2.css",
+		"/E/Laptop/mowes/www/hazuki/TEST/M.css",
+		"/E/Laptop/mowes/www/hazuki/kalkulator/p",
+		"/E/Laptop/mowes/www/hazuki/awdaw.php",
+		"/E/Laptop/mowes/www/hazuki/dito.php",
+		"/E/Laptop/mowes/www/hazuki/ada",
+		"/E/Laptop/mowes/www/hazuki/php1.php",
+		"/E/Laptop/mowes/www/hazuki/111.html",
+		"/E/Laptop/mowes/www/hazuki/1222.php",
+		"/E/Laptop/mowes/www/hazuki/php/hedeh.php",
+		"/E/Laptop/mowes/www/hazuki/php/hedeh",
+		"/E/Laptop/mowes/www/hazuki/php/HAH.php",
+		"/E/Laptop/mowes/www/hazuki/php/tugas gw ni",
+		"/E/Laptop/mowes/www/hazuki/php/p1 ini ajg.php",
+		"/E/Laptop/mowes/www/hazuki/php/p1.php",
+		"/E/Laptop/mowes/www/hazuki/pertemuan 1B.html",
+		"/E/Laptop/mowes/www/hazuki/tugas 1 pertemuan 1.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
